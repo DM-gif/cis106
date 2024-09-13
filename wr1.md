@@ -9,8 +9,8 @@ semester: fall 24
 
 ## Slack Screenshot
 
-![slack](#slack-screenshot)
+![slack](Slack.PNG)
 
 ## Github Screenshot
 
-![github](#github-screenshot)
+![github](Github.PNG)
